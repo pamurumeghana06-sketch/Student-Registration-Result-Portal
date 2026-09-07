@@ -21,5 +21,5 @@ A student passes only when they score at least 40 marks in every subject.
 - `index.html` - webpage structure and Bootstrap components
 - `style.css` - custom styling
 - `script.js` - validation, calculation, DOM manipulation and dynamic result
-- visite page
+- visit page
 - https://pamurumeghana06-sketch.github.io/Student-Registration-Result-Portal/
